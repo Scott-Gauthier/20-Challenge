@@ -1,0 +1,15 @@
+.backgroundbrown {
+  background-color: #261414;  
+}
+.backgroundgreen {
+    background-color: #D9EAD3;
+    --bs-navbar-color: #D9EAD3;
+}
+.textgreen {
+  color: #D9EAD3;
+  --bs-nav-link-color: #D9EAD3;
+}
+.textbrown {
+  color: #261414;
+  --bs-nav-link-color: #261414;
+}

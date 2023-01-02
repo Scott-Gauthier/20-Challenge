@@ -1,0 +1,11 @@
+.textgreen {
+  color: #D9EAD3;
+  --bs-nav-link-color: #D9EAD3;
+}
+.textbrown {
+  color: #261414;
+  --bs-nav-link-color: #261414;
+}
+.whitehover {
+  --bs-nav-link-hover-color: white;
+}
