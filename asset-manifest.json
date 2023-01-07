@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/20-Wk-React-Portfolio/static/css/main.939461d5.css",
-    "main.js": "/20-Wk-React-Portfolio/static/js/main.771264cf.js",
+    "main.js": "/20-Wk-React-Portfolio/static/js/main.81ced2aa.js",
     "static/js/787.1ed0c42c.chunk.js": "/20-Wk-React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Suit-photo.jpg": "/20-Wk-React-Portfolio/static/media/Suit-photo.9a8e5fb0cb4f57043ede.jpg",
     "static/media/MERN-Logo.png": "/20-Wk-React-Portfolio/static/media/MERN-Logo.48df5b9e840697683155.png",
@@ -9,11 +9,11 @@
     "static/media/MSSQL-Logo.png": "/20-Wk-React-Portfolio/static/media/MSSQL-Logo.5fa8c432729f4057a258.png",
     "index.html": "/20-Wk-React-Portfolio/index.html",
     "main.939461d5.css.map": "/20-Wk-React-Portfolio/static/css/main.939461d5.css.map",
-    "main.771264cf.js.map": "/20-Wk-React-Portfolio/static/js/main.771264cf.js.map",
+    "main.81ced2aa.js.map": "/20-Wk-React-Portfolio/static/js/main.81ced2aa.js.map",
     "787.1ed0c42c.chunk.js.map": "/20-Wk-React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.939461d5.css",
-    "static/js/main.771264cf.js"
+    "static/js/main.81ced2aa.js"
   ]
 }
